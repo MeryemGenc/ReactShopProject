@@ -9,8 +9,8 @@ import {
   UPDATE_FILTERS,
   FILTER_PRODUCTS,
   CLEAR_FILTERS,
-  CLEAR_CART,
 } from "../actions";
+//CLEAR_CART,
 import { useProductsContext } from "./products_context";
 
 const initialState = {
